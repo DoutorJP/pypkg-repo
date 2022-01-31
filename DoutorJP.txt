@@ -1,0 +1,4 @@
+package: vfunc
+description: a simple velocity, time, and distance, calculus program.
+author: João Pedro M. V.
+repo: https://github.com/doutorjp/vfunc
