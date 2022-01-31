@@ -1,0 +1,6 @@
+Package = hello world
+======================
+======================
+Version = 1.0.0.0
+Author = Jocadbz
+Mantainer = Jocadbz

@@ -1,0 +1,6 @@
+Package = Tlancher
+===================
+===================
+Author = https://tlauncher.org/en/
+Mantainer = Jocadbz
+Version = 2.841
